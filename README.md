@@ -1,4 +1,6 @@
-![profil gif](KIROKAZE.gif)
+<p align="center">
+  <img src="gif_adi.gif" width="800" />
+</p>
 
 # Tunay Huseynli 
 
