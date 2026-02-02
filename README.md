@@ -1,3 +1,5 @@
+![profil gif](KIROKAZE.gif)
+
 # Tunay Huseynli 
 
 C# / .NET Backend Developer with experience in designing and implementing scalable ASP.NET Core Web APIs.  
