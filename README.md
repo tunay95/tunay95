@@ -42,12 +42,6 @@ Committed to writing efficient, readable code and continuously improving backend
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunay95&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunay95&layout=compact)
-
----
 
 ## 🤝 Contact & Links
 
