@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif_adi.gif" width="800" />
+  <img src="KIROKAZE.gif" width="800" />
 </p>
 
 # Tunay Huseynli 
